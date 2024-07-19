@@ -22,4 +22,5 @@ btn.onclick = function(){
         listItem.remove();
     });
     input.value= "";
+    input.focus();
 }
