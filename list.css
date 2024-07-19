@@ -1,0 +1,64 @@
+*{
+    font-style: italic;
+    background-color: #e6e6fa;
+}
+
+h1{
+    margin-bottom: 20px;
+    text-align: center;
+    font-style: normal;
+}
+
+input#item{
+    border: solid brown;
+    border-radius: 5px;
+}
+
+li{
+    margin-bottom: 10px; 
+}
+
+li button {
+  font-size: 12px;
+  font-weight: bold;
+  margin-left: 17px;
+  color: #666;
+  border-radius: 5px;
+}
+
+#btn{
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+label{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+html, body {
+    height: 100%; 
+    margin: 0; 
+}
+
+body {
+    border: 50px solid #a1c4fd;
+    box-sizing:border-box;
+
+}
+
+.yoo{
+    margin-left: 25px;
+    font-weight: bolder;
+    font-size: 21px;
+}
+
+img{
+    width: 300px; 
+    height: auto; 
+    border-radius: 10px;
+    border:5px ;
+    display:block;
+    margin: 25px auto; 
+}
